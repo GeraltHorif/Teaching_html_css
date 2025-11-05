@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #577357;
+}
+
+.calendar {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding: 40px 0;
+}
+
+.month {
+    width: 200px;
+    height: 160px;
+    background-color: #cbd8cb;
+    border-radius: 5px;
+    padding: 10px;
+    transition: 2s;
+}
+.month:hover {
+    transform: scale(1.2);
+    transition: 1s;
+}
+.month h4{
+    color: #302828;
+    margin-bottom: 15px;
+}
+.month p {
+    font-size: 14px;
+    margin: 10px 0;
+}

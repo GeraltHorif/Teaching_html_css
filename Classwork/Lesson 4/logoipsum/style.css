@@ -288,6 +288,10 @@ header nav a {
     color: #1D293F;
     margin: 22px 102px 28px 102px;
 }
+.price div h3 span {
+    font-weight: 700;
+    font-size: 30px;
+}
 
 .price div p {
     font-family: 'Mulish';

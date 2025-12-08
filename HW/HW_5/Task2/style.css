@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 .preloader {
     position: fixed;
     top: 0;
@@ -23,11 +24,11 @@
     border-radius: 50%;
     border: 6px solid #ed9c9c;
     border-top: 6px solid #5454D4;
-    animation:
-            spin 3s linear infinite,
-            color-change 6s ease-in-out infinite;
+    animation: spin 3s linear infinite,
+    color-change 6s ease-in-out infinite;
 }
-.loading-text{
+
+.loading-text {
     margin-top: 15px;
     color: #3a3a4c;
 }
@@ -42,8 +43,19 @@
 }
 
 @keyframes color-change {
-    0% { border-top-color: #5454D4; }
-    25% { border-top-color: #ff7143; }
-    50% { border-top-color: #4CAF50; }
-    75% { border-top-color: #e91e63; }
-    100% { border-top-color: #5454D4; }
+    0% {
+        border-top-color: #5454D4;
+    }
+    25% {
+        border-top-color: #ff7143;
+    }
+    50% {
+        border-top-color: #4CAF50;
+    }
+    75% {
+        border-top-color: #e91e63;
+    }
+    100% {
+        border-top-color: #5454D4;
+    }
+}

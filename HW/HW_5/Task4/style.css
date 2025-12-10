@@ -75,21 +75,25 @@ ul a {
 }
 
 /*---------main--------------*/
-main {
-
+main{
+    width: 1340px;
+    display: flex;
+}
+.box {
     height: 369px;
+    width: 1340px;
     background-color: #D1EF53;
     border-radius: 30px;
     border: black solid 4px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin-bottom: 64px;
 }
 
-main h2 {
+.box h2 {
     width: 533px;
     height: 186px;
-    margin: 0 auto;
     font-family: 'Bowlby One', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -98,28 +102,36 @@ main h2 {
     letter-spacing: -0.02em;
     text-transform: uppercase;
     color: #1E1E1E;
+    margin: 98px 28px 85px 109px;
+}
+.content {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
 }
 
-main p {
-    margin: 0 auto;
+.content p {
     width: 521px;
     height: 75px;
-    font-family: 'Inter';
+    font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 600;
     font-size: 24px;
     line-height: 139.9%;
     letter-spacing: -0.02em;
     color: #1E1E1E;
+    margin-top: 100px;
+    margin-right: 149px;
 }
 
-main button {
+.content button {
     width: 176px;
     height: 60px;
-    margin-left: 28px ;
+    margin-top: 34px;
+    margin-bottom: 100px;
     background: #E9E3DC;
     border: 4px solid #1E1E1E;
-    box-shadow: 8px 8px 0px #000000;
+    box-shadow: 8px 8px 0  #000000;
     font-family: 'Bowlby One', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -127,9 +139,46 @@ main button {
     line-height: 96.9%;
     text-align: center;
     text-transform: uppercase;
-
     color: #1E1E1E;
-
-
 }
 
+.main-img{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    row-gap: 64px;
+    margin: 0;
+}
+
+/*----------footer----------*/
+footer{
+    width: 895px;
+    height: 235px;
+    margin: 64px 272px 36px 272px;
+}
+footer h2{
+
+    font-family: 'Bowlby One', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 101.9%;
+
+    text-align: center;
+    text-transform: uppercase;
+    color: #E9E3DC;
+}
+footer button{
+    width: 196px;
+    height: 60px;
+    margin: 33px 349px 0 349px;
+    background: #D1EF53;
+    font-family: 'Bowlby One',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 96.9%;
+    text-align: center;
+    text-transform: uppercase;
+    color: #1E1E1E;
+}

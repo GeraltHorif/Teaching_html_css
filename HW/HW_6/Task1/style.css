@@ -6,20 +6,20 @@ body {
     color: pink;
 }
 
-.list-2 > ul > li:nth-child(odd) {
+.list-2>ul > li:nth-child(odd) {
     font-size: 22px;
 }
 
-.list-3 ul li:nth-child(2n+4)::after {
+.list-3>ul>li:nth-child(2n+4)::after {
     content: "!";
     font-weight: bold;
 }
 
-.list-4 ul li:last-child {
+.list-4>ul>li:last-child {
     color: purple;
 }
 
-.list-5 ul li:first-letter {
+.list-5>ul>li:first-letter {
     font-size: 30px;
     color: red;
 }

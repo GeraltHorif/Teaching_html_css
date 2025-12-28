@@ -63,7 +63,7 @@ body {
     font-size: 20px;
 }
 
-.form-login div input[type=button] {
+.form-login div input[type=submit] {
     border-radius: 10px;
     border: 1px solid #7c7474;
     width: 120px;
@@ -73,7 +73,7 @@ body {
     cursor: pointer;
     transition: background-color 0.3s, transform 0.2s;
 }
-.form-login div input[type="button"]:hover {
+.form-login div input[type="submit"]:hover {
     background-color: #939114;
     color: #1E1E1E;
 }

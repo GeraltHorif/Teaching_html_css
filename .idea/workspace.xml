@@ -4,14 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23f74a11-e717-4955-8b76-3861da382eb2" name="Changes" comment="add Dar Lesson 7 and file les 7_1 - 7_5">
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/img/pic_0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/img/pic_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/img/pic_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/img/pic_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/lesson 7_6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="23f74a11-e717-4955-8b76-3861da382eb2" name="Changes" comment="add lesson 7_6.html, style.css and dir img with files">
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/img/image_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/img/image_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/img/image_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +82,7 @@
       <recent name="D:\Okten\WebstormProjects\Teaching _html_css\Classwork\Lesson 7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Okten\WebstormProjects\Teaching _html_css\HW\HW_7\Task1\img" />
       <recent name="D:\Okten\WebstormProjects\Teaching _html_css\Classwork\Lesson 7\img" />
     </key>
   </component>
@@ -111,7 +112,7 @@
       <updated>1767036365060</updated>
       <workItem from="1767036366550" duration="2421000" />
       <workItem from="1767195027641" duration="6217000" />
-      <workItem from="1767463602462" duration="4933000" />
+      <workItem from="1767463602462" duration="7416000" />
     </task>
     <task id="LOCAL-00001" summary="add Dar Lesson 7 and file les 7_1 - 7_5">
       <option name="closed" value="true" />
@@ -121,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767207131906</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add lesson 7_6.html, style.css and dir img with files">
+      <option name="closed" value="true" />
+      <created>1767469294472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1767469294472</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add Dar Lesson 7 and file les 7_1 - 7_5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Dar Lesson 7 and file les 7_1 - 7_5" />
+    <MESSAGE value="add lesson 7_6.html, style.css and dir img with files" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson 7_6.html, style.css and dir img with files" />
   </component>
 </project>

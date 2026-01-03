@@ -4,17 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23f74a11-e717-4955-8b76-3861da382eb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/lesson 7_2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/lesson 7_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/lesson 7_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/lesson 7_5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Teaching html-css.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Classwork/Lesson 7/lesson7_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Classwork/Lesson 7/lesson 7_1.html" afterDir="false" />
+    <list default="true" id="23f74a11-e717-4955-8b76-3861da382eb2" name="Changes" comment="add Dar Lesson 7 and file les 7_1 - 7_5">
+      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/img/pic_0.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/img/pic_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/img/pic_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/img/pic_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/lesson 7_6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Classwork/Lesson 7/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -65,9 +63,11 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "javascript.preferred.runtime.type.id": "node",
     "junie.onboarding.icon.badge.shown": "true",
     "last_opened_file_path": "D:/Okten/WebstormProjects/Teaching _html_css/Classwork/Lesson 7",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -80,6 +80,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Okten\WebstormProjects\Teaching _html_css\Classwork\Lesson 7" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Okten\WebstormProjects\Teaching _html_css\Classwork\Lesson 7\img" />
     </key>
   </component>
   <component name="RunManager">
@@ -107,11 +110,25 @@
       <option name="presentableId" value="Default" />
       <updated>1767036365060</updated>
       <workItem from="1767036366550" duration="2421000" />
-      <workItem from="1767195027641" duration="6044000" />
+      <workItem from="1767195027641" duration="6217000" />
+      <workItem from="1767463602462" duration="4933000" />
     </task>
+    <task id="LOCAL-00001" summary="add Dar Lesson 7 and file les 7_1 - 7_5">
+      <option name="closed" value="true" />
+      <created>1767207131906</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1767207131906</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add Dar Lesson 7 and file les 7_1 - 7_5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Dar Lesson 7 and file les 7_1 - 7_5" />
   </component>
 </project>

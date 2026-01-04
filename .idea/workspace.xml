@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23f74a11-e717-4955-8b76-3861da382eb2" name="Changes" comment="add lesson 7_6.html, style.css and dir img with files">
-      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/img/image_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/img/image_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/img/image_3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task1/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task2/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task2/img/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task2/img/entypo_light-down.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task2/img/img_led.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HW/HW_7/Task2/img/img_map.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW_7/Task1/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW_7/Task1/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW_7/Task2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW_7/Task2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HW/HW_7/Task2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/HW/HW_7/Task2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,35 +53,36 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.lesson 7_1.html.executor": "Coverage",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.preferred.runtime.type.id": "node",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "D:/Okten/WebstormProjects/Teaching _html_css/Classwork/Lesson 7",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.lesson 7_1.html.executor&quot;: &quot;Coverage&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Okten/WebstormProjects/Teaching _html_css/Classwork/Lesson 7&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Okten\WebstormProjects\Teaching _html_css\Classwork\Lesson 7" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Okten\WebstormProjects\Teaching _html_css\HW\HW_7\Task2\img" />
       <recent name="D:\Okten\WebstormProjects\Teaching _html_css\HW\HW_7\Task1\img" />
       <recent name="D:\Okten\WebstormProjects\Teaching _html_css\Classwork\Lesson 7\img" />
     </key>
@@ -113,6 +114,7 @@
       <workItem from="1767036366550" duration="2421000" />
       <workItem from="1767195027641" duration="6217000" />
       <workItem from="1767463602462" duration="7416000" />
+      <workItem from="1767547500621" duration="14453000" />
     </task>
     <task id="LOCAL-00001" summary="add Dar Lesson 7 and file les 7_1 - 7_5">
       <option name="closed" value="true" />

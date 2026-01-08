@@ -11,6 +11,7 @@
     width: 1400px;
     margin: 0 auto;
 }
+
 /*----------Header----------*/
 header {
     height: 113px;
@@ -21,9 +22,11 @@ header {
     background: #24204A;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
     padding: 48px 115px 41px 115px;
+    position: sticky;
+    top: 0;
 }
 
-header h2 {
+header h1 {
     font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 700;
@@ -58,9 +61,6 @@ header nav ul a {
 }
 
 /*----------Main----------*/
-main {
-
-}
 
 /*----------One position----------*/
 .one-position {
@@ -312,13 +312,9 @@ main {
     letter-spacing: 0.05em;
     color: #8E88C1;
 }
-.img-map{
-    width: 1400px;
-    height: 664px;
-}
 
 /*----------Footer----------*/
-footer{
+footer {
     height: 94px;
     background: #24204A;
     display: flex;
@@ -326,7 +322,8 @@ footer{
     align-items: center;
 
 }
-footer>p {
+
+footer > p {
     font-family: 'Inter', sans-serif;
     font-style: normal;
     font-weight: 500;
